@@ -17,7 +17,7 @@ I love sleeping 😴<br>I have founded https://eclipsesystems.top/ <3<br>I enjoy
 
 ## 💻 Try Hack Me
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/5794803.png)](https://tryhackme.com/p/5794803)
+[![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5794803)](https://tryhackme.com/p/TheNoname)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=thenoname-gurl&icon=0&color=0)](https://visitcount.itsvg.in)
