@@ -1,7 +1,7 @@
 ![Views :D](https://counter.lunoxia.net/get/@thenoname?theme=asoul)
 
 # 💫 About Me:
-I love sleeping 😴<br>I have founded https://eclipsesystems.org/ <3<br>I enjoy playing OSU, Hacking, Coding and managing my homelab!
+I love sleeping 😴<br>I have founded https://ecli.app/ <3<br>I enjoy playing OSU, Hacking, Coding and managing my homelab!
 
 
 ## 🌐 Socials:
